@@ -1,6 +1,6 @@
 {
   "name": "changecalculator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Given a amount payable and paid calculate the change we need to give.",
   "main": "index.js",
   "scripts": {
