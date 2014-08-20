@@ -5,6 +5,11 @@ module.exports = {
     var change = [];
     var diff = amountPaid - price;
 
+    // coins.forEach(function(eachCoin){
+    //     if(eachCoin == diff)
+    //       change.push(eachCoin);
+    // });
+
     coins.forEach(function(eachCoin){
 
       if(diff != 0 && diff>=eachCoin){
