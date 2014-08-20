@@ -1,0 +1,18 @@
+{
+  "name": "changecalculator",
+  "version": "0.1.0",
+  "description": "Given a amount payable and paid calculate the change we need to give.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "change",
+    "calculator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
